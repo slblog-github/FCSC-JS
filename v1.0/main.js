@@ -49,9 +49,9 @@ if(nostart == 0){
     console.log("FCSCJS:start=False");
 }
 //设置组件地址
-var RSRC = "right.js";//right
-var DSRC = "devtool.js";//devtool
-var ISRC = "iframe.js";//iframe(i大写I)
+var RSRC = "https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/right.js";//right
+var DSRC = "https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/devtool.js";//devtool
+var ISRC = "https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/iframe.js";//iframe(i大写I)
 //运行
 if(right == "true"){
     //右键开启
