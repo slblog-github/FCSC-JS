@@ -1,2 +1,1 @@
-# FCSC-JS
-Fuck Copy Source Code JavaScript
+FCSCJS 源码存放处
