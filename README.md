@@ -16,7 +16,7 @@ FCSCS全称`Fuck Copy Source Code JavaScript`
     devtool="true";
     iframe="true";
 </script>
-<script src="https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/main.js"></script></body>
+<script src="https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/main.js"></script>
 ```
 👆这是一个火力全开的示例
 true代表开 false代表关！！
