@@ -9,14 +9,13 @@ FCSCS全称`Fuck Copy Source Code JavaScript`
 他们两个引用中间填写设置
 这是模板:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/load.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/dist/index.js"></script>
 <script>
     start="true";
     right="true";
     devtool="true";
     iframe="true";
 </script>
-<script src="https://cdn.jsdelivr.net/gh/yellowface233/FCSC-JS/v1.0/main.js"></script>
 ```
 👆这是一个火力全开的示例
 true代表开 false代表关！！
